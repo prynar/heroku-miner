@@ -7,9 +7,9 @@
       "description": "papa",
       "value": "Rogen"
      },
-    "PORT": {
+    "WEBSERVER_PORT": {
       "description": "port",
-      "value": "$PORT",
+      "value": "0:0:0:0:$PORT",
       "required": false
      } 
   },
