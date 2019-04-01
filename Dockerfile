@@ -8,4 +8,5 @@ RUN mkdir -m 777 /cpuminer
 ENV PORT /cpuminercpuminer-multi/cpuminer:$PORT
 ADD entrypoint.sh /entrypoint.sh
 RUN chmod +x /entrypoint.sh
+USER myuser
 CMD /entrypoint.sh
