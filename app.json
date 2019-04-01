@@ -1,0 +1,8 @@
+{
+  "name": "cpuminer",
+  "description": "heroku-miner",
+  },
+  "website": "https://github.com/wojiaoluyuan/heroku-miner",
+  "repository": "https://github.com/wojiaoluyuan/heroku-miner",
+  "stack": "container"
+ }
