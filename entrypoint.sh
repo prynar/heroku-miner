@@ -2,7 +2,7 @@ cd /cpuminer
 
     git clone https://github.com/tpruvot/cpuminer-multi.git
   
-    cd ccpuminer-multi 
+    cd cpuminer-multi 
     chmod 777 build.sh
     ./build.sh
     chmod 777 cpuminer
