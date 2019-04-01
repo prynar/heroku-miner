@@ -1,6 +1,17 @@
 {
   "name": "cpuminer",
   "description": "heroku-miner",
+  "keywords": ["cpuminer"],
+  "env": {
+    "WHO": {
+      "description": "papa",
+      "value": "Rogen"
+     },
+    "PORT": {
+      "description": "port",
+      "value": "$PORT",
+      "required": false
+     } 
   },
   "website": "https://github.com/wojiaoluyuan/heroku-miner",
   "repository": "https://github.com/wojiaoluyuan/heroku-miner",
