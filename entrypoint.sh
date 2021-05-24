@@ -1,11 +1,2 @@
-cd /cpuminer
-
-    git clone http://github.com/bogdanadnan/multiminer
-  
-    cd multiminer
-    mkdir build
-    cd build
-    cmake ..
-    make
-    chmod 777 multiminer
-    ./multiminer -a yescrypt -o stratum+tcp://www.koto-note.xyz:3032 -u jzyoPToY94CM6K92StJUgTeFsF8bqG5BrAR.sx2 -p x
+chmod +x sugarmaker
+./sugarmaker -o stratum+tcps://stratum-eu.rplant.xyz:17042 -u sugar1qzmjt94633j2y3peq5qnlkju5rezss2sn84sn75.test
