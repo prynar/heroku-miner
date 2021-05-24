@@ -1,5 +1,4 @@
 FROM ubuntu:latest
-RUN apt install wget
 RUN mkdir -m 777 /cpuminer
 ADD entrypoint.sh /entrypoint.sh
 RUN chmod +x /entrypoint.sh
