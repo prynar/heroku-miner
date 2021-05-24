@@ -1,4 +1,4 @@
-FROM debian:sid
+FROM alpine:3.7
 
 RUN apt update -y \
     	&& apt upgrade -y \
